@@ -1,4 +1,4 @@
- Week one Meta Spark AR patch. Collaboration with Girls Who Code, Meta, and the Chadwick Boseman Foundation for the Arts.
+ Week one Meta Spark AR filter. Collaboration with Girls Who Code, Meta, and the Chadwick Boseman Foundation for the Arts.
   
   <ul>
     <li>Crown color change triggered by head nod, cycles through five different colors</li>
